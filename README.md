@@ -1,4 +1,4 @@
-# MiningPedia - Advanced Bitcoin Mining and Investment Script Instant Auto-Payout
+# MiningPedia - Advanced Bitcoin Mining and Investment Script
 MiningPedia - Advanced Bitcoin Mining Investment Script,  automated and advanced mining without system with a lot of in-built features, such as automated mining (ROI), loyalty system, Jobs, sharing bitcoin, referral bonus, 2Factor authentication, automatic withdrawal, newsletter and more.
 
 This system was designed to be attractive and easy to use. With plenty of different features this system was designed to bring revenue and promote itself in a short time. Some of main features of this system are listed bellow, but to see this system working, we invite you to check the demo from the bottom of this page.
