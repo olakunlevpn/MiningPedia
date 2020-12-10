@@ -17,7 +17,7 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
 
 
 
-<p>User features</p>
+<h2>User features</h2>
 
 <ul>
 <li>
@@ -44,7 +44,7 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
   <li>+ Many others features</li>
 </ul>
 
-<p>Admin features</p>
+<h2>Admin features</h2>
 <ul>
 <li>Powered By Bitgo API</li> 
 <li>100% Unencrypted code (can be customised as you wish)</li>
