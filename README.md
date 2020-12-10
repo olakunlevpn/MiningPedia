@@ -39,9 +39,9 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
 <li>Investment Game (100% legit game build with CoinDesk API's)</li>
 <li>Coupons system, give coupon codes to your users to gain extra rewards</li>
 <li>Very well optimised and secured</li>
-<li>+ Many others features</li>
 <li>Account revovery: Instant Work Forgot Password & secure password with salt.</li>
   <li>Timeline: Support email Notification on all user activities</li>
+  <li>+ Many others features</li>
 </ul>
 
 <p>Admin features</p>
@@ -73,7 +73,7 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
   <li>Security: The script uses Bcrypt for password hashing, encrypted cookies, XSS and CSRF attack preventions. </li>
   
   <li>Quick Start + In Depth Documentation: Install and configure the script in matter of minutes or read the in depth documentation to learn more about the script.</li>
-<li>more…</li>
+<li>+ Many others features</li>
 </ul>
 
 
