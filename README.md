@@ -86,81 +86,15 @@ For fast support and inquiry Whatsapp Me https://wa.link/zi3b0k please write dir
 <h5 id="item-description__and-so-much-more"><em>and so much more…</em></h5>
 <h2 id="item-description__requirements">Requirements:</h2>
 PHP 5.5 or Higher.<br>
-MCrypt<br>
-PDO MYSQL.<br>
+MCrypt <br>
+PDO MYSQL. <br>
 OpenSSL<br>
 GD.<br>
 Exif (optional)<br>
 Multibyte String (optional)<br>
 Internationalization (optional)<br>
 <br>
-</blockquote>
 
-<h2 id="item-description__updates">Updates</h2>
- <h5 id="item-description__version-1-5-5-2-09-08-2020">
-<strong>Version 1.6 </strong> 09/08/2020</h5>
-<blockquote>
-<li> Added: Activation Fees & Mergin account unsuspend button (Admin)</li>
-<li> Added: Activation Fees (You can now enable/disable only admin to recieve activation fees)</li>
-<li> Fixed: Reported Bugs..</li>
-<li> & much more...</li>
-</blockquote>
-
- <h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.5 </strong> 05/02/2019</h5>
-<blockquote>
-<li> Added: Member Court Case</li>
-<li> Added: Support Tickets System</li>
-<li> Improved: Website speed with 99%</li>
-<li> Fixed: Reported Bugs..</li>
-<li> & much more...</li>
-</blockquote>
- <h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.4 </strong> 04/28/2018</h5>
-<blockquote>
-<li> Added: Member payment Logs</li>
-<li> Improved: Admin Panel Core Settings</li>
-<li> Fixed: Reported Bugs..</li>
-<li> & much more...</li>
-</blockquote>
-<h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.3 </strong> 04/20/2018</h5>
-<blockquote>
-<li> Added: Member Testimony like/dislike Reactions</li>
-<li> Improved: Force Testimony Before Payment Confirmation </li>
-<li> Added: Real Live Support Chats In-Built Support</li>
-<li> Improved: Admin Panel live chats</li>
-<li> Fixed: Some Bugs..</li>
-<li> & much more...</li>
-</blockquote>
- <h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.2 </strong> 04/20/2018</h5>
-<blockquote>
-<li> Added: Member Testimony system</li>
-<li> Added: Force Testimony Before Payment Confirmation</li>
-<li> Added: Email Notification on members activities</li>
-<li> Improved: Admin Panel</li>
-<li> Improved: Website Design</li>
-<li> Improved: FrontEnd Design</li>
-<li> Fixed: Some Bugs..</li>
-<li> & much more...</li>
-</blockquote>
-<h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.1 </strong> 03/12/2018</h5>
-<blockquote>
-<li> Added: Activation Fees system</li>
-<li> Added: Invitation Codes (Open/Close Registration)</li>
-<li> Added: Automatic Margin system</li>
-<li> Added: Referral system</li>
- <li> Added: Guider Members system</li>
-<li> Fixed: All Reported Bugs</li>
-<li> Improved: Website speed with 99%</li>
-</blockquote>
-<h5 id="item-description__version-1-5-5-2-04-06-2018">
-<strong>Version 1.0 </strong> 01/08/2018</h5>
-<blockquote>
-<li> Initial Release</li>
-</blockquote>
 
 </blockquote><br></div>
 
