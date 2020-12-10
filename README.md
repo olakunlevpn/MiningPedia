@@ -1,6 +1,8 @@
 # MiningPedia - Advanced Bitcoin Mining and Investment Script Instant Auto-Payout
 MiningPedia - Advanced Bitcoin Mining Investment Script,  automated and advanced mining without system with a lot of in-built features, such as automated mining (ROI), loyalty system, Jobs, sharing bitcoin, referral bonus, 2Factor authentication, automatic withdrawal, newsletter and more.
 
+This system was designed to be attractive and easy to use. With plenty of different features this system was designed to bring revenue and promote itself in a short time. Some of main features of this system are listed bellow, but to see this system working, we invite you to check the demo from the bottom of this page.
+
 MiningPedia is fast, secured, and it will be regularly updated.<br>
 </p><blockquote>MiningPedia v2.0</blockquote>
 <blockquote>Check out the complete features online <a href="http://mylcr.site/miningPedia/" rel="nofollow">Online Demo</a>
@@ -10,81 +12,71 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
 
 <blockquote><code>
         <blockquote><code>#Read the documentation to set up database and others its well explained</code></blockquote>
-        <blockquote><code>Online demo <a href="http://mylcr.site/ponzipedia/admin.php">Admin panel</a> Username: admin Password: admin</code></blockquote>
-        <blockquote><code>Online demo <a href="http://mylcr.site/ponzipedia/"> Signup to view</a></code></blockquote>
+        <blockquote><code>Online demo <a href="http://mylcr.site/miningPedia/admin.php">Admin panel</a> Username: admin Password: admin</code></blockquote>
+        <blockquote><code>Online demo <a href="http://mylcr.site/miningPedia/"> Signup to view</a></code></blockquote>
 
 
 
-<h2 id="item-description__user-features-demo">User Features  (<a href="http://mylcr.site/ponzipedia/" rel="nofollow">Demo</a>)</h2>
+<p>User features</p>
+
 <ul>
-  <li>
-<strong>High Level Cache System:</strong> The #1 thing that must be available on any high traffic website, The Speed ! We Speed up your website with our Cache system</li>
-  <li>
-<strong>PonziPedia (New Feature)</strong>: With our new feature, user can create tickets, messages, comments.</li>
-  <li>
-<strong>System join</strong>: Easy to Registrared & Login.</li>
-  <li>
-<strong>Account revovery</strong>: Instant Work Forgot Password & secure password with salt.</li>
-  <li>
-<strong>Easy &amp; Notofication:</strong> Support email Notification on all user activities.</li>
-  <li>
-<strong>Periodic Margin </strong>: Fully Automated Matching System.</li>
-<li><strong>POF Upload </strong>: Payment proof uplaod by all members after payment.</li>
-<li><strong>Activation Fees System</strong>: New members will pay activations fees for account activation.</li>
-<li><strong>Notification System</strong>: Display live members activities with our notification system.</li>
-<li><strong>User Profit </strong>: Easy to Donate Someone and get paid autmatically Periodic.</li>
-<li><strong>User Dashboard</strong>: Informative User Dashboard.</li>
-<li><strong>User testimony</strong>: Live member testimony with like and dislike system reactions.</li>
-<li><strong>Bank System</strong>: Auto Generate user Account Number And Balance System</li>
-<li><strong>Be Informed</strong>: Displays Notice Board to all users</li>
- <li>
-<strong>Full Authentication</strong>: The script provides the complete functionality for authentication: Log in, Sign up, Email Activation and Password Recover.</li>
- <li>
-<strong>Get Support</strong>: Fully responsive support system in-built live message and tickets support</li>
- <li>
-<strong>Message System</strong>: Fully responsive support message system live chatting In-Built</li>
-    <li>
-<strong>Court Case</strong>: Ability to drag member to case if failure to pay or fake POF</li>
-  <li>
-<strong>Duscussion</strong>: User can create interact with comments on in-built discussion board.</li>
-  <li>Fully responsive for all devices, browsers.</li>
-  <li>Password recovery by email.</li>
-  <li>Comment auto detector (Moderated)</li>
-</ul>
-<h5 id="item-description__and-much-more"><em>and much more…</em></h5>
-<h2 id="item-description__admin-panel-features">Admin Panel Features:</h2>
-<ul>
-  <li>
-<strong>Admin Dashboard</strong>: Full statics with charts analyzing the site information.</li> 
-  <li>
-<strong>General Settings</strong>: Update general settings of website.</li>
-  <li>
-<strong>Site settings</strong>: Update site settings like name,title,keywords.. etc ..</li>
-  <li>
-<strong>Create Packages</strong>: Create packages for user to purchase on the website.</li>
-  <li>
-<strong>Activation Fees System</strong>: You can make profit with activation fees system & its optional can be switch off by you</li>
-  <li>
-<strong>Support System</strong>: Full responsive support system, reply live message or user tickets easily</li>
-  <li>
-<strong>Manage Users</strong>: View, edit, verify, reset password, delete users.</li>
-  <li>
-<strong>Manage Margin</strong>: View, disengage margin easily.</li>
-  <li>
-<strong>Add/Edit Margin</strong>: Add and edit margin on easy way from the admin panel.</li>
-  <li>
-<strong>Mailing List</strong>: With our mailing list system you can send your message to all registered users/subscribers in just one click !</li>
-  <li>
-<strong>Full Authentication</strong>: The script provides the complete functionality for authentication: Log in, Sign up, Email Activation and Password Recover.</li>
-  <li>
-<strong>Security </strong>: The script uses Bcrypt for password hashing, encrypted cookies, XSS and CSRF attack preventions. </li>
-  <li>
-<strong>Ban user</strong>: Ben user ip on very easy way.</li>
-  <li>
-<strong>reCaptcha</strong>: Add, edit your reCaptcha key.</li>
 <li>
-<strong>Quick Start + In Depth Documentation</strong>: Install and configure the script in matter of minutes or read the in depth documentation to learn more about the script.</li>
+<strong>High Level Cache System:</strong> The #1 thing that must be available on any high traffic website, The Speed ! We Speed up your website with our Cache system</li>
+<li>Fully Automated Mining & Withdrawal System.</li>
+<li>Cross browser optimised design</li>
+<li>Easy Signup/login</li>
+<li>Secure dashboard</li>
+<li>Sharing bitcoin</li>
+<li>Bitcoin mining</li>
+<li>Powerful Referral System</li>
+<li>Loyalty Point System</li>
+<li>Jobs system where you can reward users for doing tasks</li>
+<li>Instant Contract Deploy</li>
+<li>Account setting</li>
+<li>Instant Bitcoin Receive on Withdrawal</li>
+<li>Automatic Withdrawal</li>
+<li>2-Factor Authentication system integrated </li>
+<li>Investment Game (100% legit game build with CoinDesk API's)</li>
+<li>Coupons system, give coupon codes to your users to gain extra rewards</li>
+<li>Very well optimised and secured</li>
+<li>+ Many others features</li>
+<li>Account revovery: Instant Work Forgot Password & secure password with salt.</li>
+  <li>Timeline: Support email Notification on all user activities</li>
 </ul>
+
+<p>Admin features</p>
+<ul>
+<li>Powered By Bitgo API</li> 
+<li>100% Unencrypted code (can be customised as you wish)</li>
+<li>Achievements system to stimulate users to be more active</li>
+<li>Easy Installation</li>
+<li>Interface control</li>
+<li>Social links</li>
+<li>Privacy policy</li>
+<li>Terms &amp; conditions</li>
+<li>Mining management</li>
+<li>Withdrawal management</li>
+<li>Email settings</li>
+<li>Newsletter</li>
+<li>Basic settings</li>
+<li>Messages&nbsp;</li>
+<li>User management</li>
+<li>Transfer &amp; referral&nbsp;management</li>
+<li>Deposit management</li>
+<li>Jobs management</li>
+<li>Automated live withdrawal proof generating</li>
+<li>Custom contract or package system (Pricing Page)</li>
+<li>Protects against CSRF attacks!</li>
+<li>Manage Users: View, edit, verify, reset password, delete users.</li>
+<li>Full Authentication: The script provides the complete functionality for authentication: Log in, Sign up, Email Activation and Password Recover.</li>
+  <li>
+  <li>Security: The script uses Bcrypt for password hashing, encrypted cookies, XSS and CSRF attack preventions. </li>
+  
+  <li>Quick Start + In Depth Documentation: Install and configure the script in matter of minutes or read the in depth documentation to learn more about the script.</li>
+<li>more…</li>
+</ul>
+
+
 
 # Contact 
 Get support https://maylancer.org/contact/index.html
