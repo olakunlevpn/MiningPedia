@@ -14,7 +14,7 @@ MiningPedia is fast, secured, and it will be regularly updated.<br>
         <blockquote><code>#Read the documentation to set up database and others its well explained</code></blockquote>
         <blockquote><code>Online demo <a href="http://mylcr.site/miningPedia/admin.php">Admin panel</a> Username: admin Password: admin</code></blockquote>
         <blockquote><code>Online demo <a href="http://mylcr.site/miningPedia/"> Signup to view</a></code></blockquote>
-
+</code></blockquote>
 
 
 <h2>User features</h2>
